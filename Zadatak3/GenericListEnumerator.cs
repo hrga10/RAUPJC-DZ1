@@ -39,7 +39,7 @@ namespace Zadatak3
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            return;
         }
 
         public bool MoveNext()
